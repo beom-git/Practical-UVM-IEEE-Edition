@@ -10,4 +10,4 @@
 `include "wb_svtb_slave.sv"
 `include "wb_svtb_scoreboard.sv"
 `include "wb_svtb_env.sv"
-`include "test1.sv"
+`include "wb_svtb_test.sv"
